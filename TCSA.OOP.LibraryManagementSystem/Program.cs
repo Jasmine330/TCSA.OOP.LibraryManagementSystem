@@ -1,8 +1,5 @@
-﻿//using TCSA.OOP.LibraryManagementSystem;
+﻿using TCSA.OOP.LibraryManagementSystem;
 
-//UserInterface userInterface = new();
-//userInterface.MainMenu();
+UserInterface userInterface = new();
+userInterface.MainMenu();
 
-using TCSA.OOP.LibraryManagementSystem;
-
-var book1 = new Book();
